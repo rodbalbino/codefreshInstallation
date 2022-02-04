@@ -1,0 +1,1 @@
+{"appName":"rollouts","userGivenName":"rollouts","destNamespace":"new-codefresh","destServer":"https://kubernetes.default.svc","srcPath":"apps/rollouts/overlays/new-codefresh","srcRepoURL":"https://github.com/rodbalbino/codefreshInstallation.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
