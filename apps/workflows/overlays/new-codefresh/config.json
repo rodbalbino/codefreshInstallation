@@ -1,0 +1,1 @@
+{"appName":"workflows","userGivenName":"workflows","destNamespace":"new-codefresh","destServer":"https://kubernetes.default.svc","srcPath":"apps/workflows/overlays/new-codefresh","srcRepoURL":"https://github.com/rodbalbino/codefreshInstallation.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
